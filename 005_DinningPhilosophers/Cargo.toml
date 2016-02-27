@@ -1,0 +1,4 @@
+[package]
+name = "005_DinningPhilosophers"
+version = "0.1.0"
+authors = ["se"]

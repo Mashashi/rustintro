@@ -1,0 +1,8 @@
+cargo build
+cargo run
+cargo test
+cargo new 003_HelloWorld --bin
+cargo new 003_HelloWorld --lib
+cargo new 003_HelloWorld
+cargo test -- --ignored
+rustc main.rs

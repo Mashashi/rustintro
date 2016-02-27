@@ -1,0 +1,4 @@
+[package]
+name = "015_ArgsFromConsole"
+version = "0.1.0"
+authors = ["Mashashi Nakamura <mashashi.nakamura@gmail.com>"]
